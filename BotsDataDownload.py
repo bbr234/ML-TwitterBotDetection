@@ -1,4 +1,4 @@
-'''
+''
 #Python3: BotsDataDownload.py
 @authors: jubin (jas1464), tushar(ta1302), balaji(bbr234).
 #project: Machine Learning: How to detect twitter bots.
